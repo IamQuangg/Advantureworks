@@ -1,0 +1,38 @@
+ProductSubcategoryID,ProductCategoryID,Name,ModifiedDate
+1,1,Mountain Bikes,4/30/2008 0:00
+2,1,Road Bikes,4/30/2008 0:00
+3,1,Touring Bikes,4/30/2008 0:00
+4,2,Handlebars,4/30/2008 0:00
+5,2,Bottom Brackets,4/30/2008 0:00
+6,2,Brakes,4/30/2008 0:00
+7,2,Chains,4/30/2008 0:00
+8,2,Cranksets,4/30/2008 0:00
+9,2,Derailleurs,4/30/2008 0:00
+10,2,Forks,4/30/2008 0:00
+11,2,Headsets,4/30/2008 0:00
+12,2,Mountain Frames,4/30/2008 0:00
+13,2,Pedals,4/30/2008 0:00
+14,2,Road Frames,4/30/2008 0:00
+15,2,Saddles,4/30/2008 0:00
+16,2,Touring Frames,4/30/2008 0:00
+17,2,Wheels,4/30/2008 0:00
+18,3,Bib-Shorts,4/30/2008 0:00
+19,3,Caps,4/30/2008 0:00
+20,3,Gloves,4/30/2008 0:00
+21,3,Jerseys,4/30/2008 0:00
+22,3,Shorts,4/30/2008 0:00
+23,3,Socks,4/30/2008 0:00
+24,3,Tights,4/30/2008 0:00
+25,3,Vests,4/30/2008 0:00
+26,4,Bike Racks,4/30/2008 0:00
+27,4,Bike Stands,4/30/2008 0:00
+28,4,Bottles and Cages,4/30/2008 0:00
+29,4,Cleaners,4/30/2008 0:00
+30,4,Fenders,4/30/2008 0:00
+31,4,Helmets,4/30/2008 0:00
+32,4,Hydration Packs,4/30/2008 0:00
+33,4,Lights,4/30/2008 0:00
+34,4,Locks,4/30/2008 0:00
+35,4,Panniers,4/30/2008 0:00
+36,4,Pumps,4/30/2008 0:00
+37,4,Tires and Tubes,4/30/2008 0:00
